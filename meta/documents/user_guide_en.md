@@ -161,7 +161,7 @@ To set up the merchant credentials, navigate to the path **Plugins -> Plugin ove
         </tr>
         <td class="th" align=CENTER colspan="2">Invoice</td>
         <tr>
-            <td><b>Payment due date (in days)</td>
+            <td><b>Payment due date (in days)</b></td>
             <td>Enter the Number of days to transfer the payment amount to Novalnet (must be greater than 7 days). In case if the field is empty, 14 days will be set as due date by default.</td>
         </tr>
         <tr>
