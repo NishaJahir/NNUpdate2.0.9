@@ -243,7 +243,7 @@ Um zu erfassen, zu stornieren und zurückzuerstatten, müssen die Transaktionen 
       <tr>
          <td><strong>Filter 1</strong></td>
          <td><strong>Auftrag > Zahlungsart</strong></td>
-         <td><strong>Plugin: Novalnet Invoice</strong>
+         <td><strong>Plugin: Novalnet Invoice</strong></td>
       </tr>
       <tr>
         <td><strong>Aktion</strong></td>
@@ -279,7 +279,7 @@ Um zu erfassen, zu stornieren und zurückzuerstatten, müssen die Transaktionen 
       <tr>
          <td><strong>Filter 1</strong></td>
          <td><strong>Auftrag > Zahlungsart</strong></td>
-         <td><strong>Plugin: Novalnet Invoice</strong>
+         <td><strong>Plugin: Novalnet Invoice</strong></td>
       </tr>
       <tr>
         <td><strong>Aktion</strong></td>
@@ -315,7 +315,7 @@ Um zu erfassen, zu stornieren und zurückzuerstatten, müssen die Transaktionen 
       <tr>
          <td><strong>Filter 1</strong></td>
          <td><strong>Auftrag > Zahlungsart</strong></td>
-         <td><strong>Plugin: Novalnet Invoice</strong>
+         <td><strong>Plugin: Novalnet Invoice</strong></td>
       </tr>
       <tr>
         <td><strong>Aktion</strong></td>
