@@ -60,11 +60,11 @@ Zur Einrichtung rufen Sie den Menüpunkt **Plugins -> Plugin-Übersicht -> Noval
         </tr>
         <tr>
             <td><b>Projekt-ID</b></td>
-            <td>Die Projekt ID ist eine eindeutige Identifikationsnummer eines angelegten Händlerprojekts. Der Händler kann eine beliebige Anzahl von Projekten im <a href="mailto:https://admin.novalnet.de/">Novalnet-Händleradministrationsportal</a> erstellen.</td>
+            <td>Die Projekt ID ist eine eindeutige Identifikationsnummer eines angelegten Händlerprojekts. Der Händler kann eine beliebige Anzahl von Projekten im <a href="https://admin.novalnet.de/">Novalnet-Händleradministrationsportal</a> erstellen.</td>
         </tr>
         <tr>
             <td><b>Tarif-ID</b></td>
-            <td>Die Tarif ID ist eine eindeutige Identifikationsnummer für jedes angelegte Projekt. Der Händler kann eine beliebige Anzahl von Tarifen im <a href="mailto:https://admin.novalnet.de/">Novalnet-Händleradministrationsportal</a> erstellen.</td>
+            <td>Die Tarif ID ist eine eindeutige Identifikationsnummer für jedes angelegte Projekt. Der Händler kann eine beliebige Anzahl von Tarifen im <a href="https://admin.novalnet.de/">Novalnet-Händleradministrationsportal</a> erstellen.</td>
         </tr>
         <tr>
             <td><b>Zahlungs-Zugriffsschlüssel</b></td>
@@ -125,7 +125,7 @@ Zur Einrichtung rufen Sie den Menüpunkt **Plugins -> Plugin-Übersicht -> Noval
         </tr>
         <tr>
             <td><b>3D-Secure-Zahlungen unter vorgegebenen Bedingungen durchführen</b></td>
-            <td>Wenn 3D-Secure in dem darüberliegenden Feld nicht aktiviert ist, sollen 3D-Secure-Zahlungen nach den Einstellungen zum Modul im <a href="mailto:https://admin.novalnet.de/">Novalnet-Händleradministrationsportal</a> unter "3D-Secure-Zahlungen durchführen (gemäß vordefinierten Filtern und Einstellungen)" durchgeführt werden. Wenn die vordefinierten Filter und Einstellungen des Moduls "3D-Secure durchführen" zutreffen, wird die Transaktion als 3D-Secure-Transaktion durchgeführt, ansonsten als Nicht-3D-Secure-Transaktion. Beachten Sie bitte, dass das Modul "3D-Secure-Zahlungen durchführen (gemäß vordefinierten Filtern und Einstellungen)" im <a href="mailto:https://admin.novalnet.de/">Novalnet-Händleradministrationsportal</a> konfiguriert sein muss, bevor es hier aktiviert wird. Für weitere Informationen sehen Sie sich bitte die Beschreibung dieses Betrugsprüfungsmoduls an (unter dem Reiter "Betrugsprüfungsmodule" unterhalb des Menüpunkts "Projekte" für das ausgewähte Projekt im <a href="mailto:https://admin.novalnet.de/">Novalnet-Händleradministrationsportal</a>) oder kontaktieren Sie das Novalnet-Support-Team.</td>
+            <td>Wenn 3D-Secure in dem darüberliegenden Feld nicht aktiviert ist, sollen 3D-Secure-Zahlungen nach den Einstellungen zum Modul im <a href="https://admin.novalnet.de/">Novalnet-Händleradministrationsportal</a> unter "3D-Secure-Zahlungen durchführen (gemäß vordefinierten Filtern und Einstellungen)" durchgeführt werden. Wenn die vordefinierten Filter und Einstellungen des Moduls "3D-Secure durchführen" zutreffen, wird die Transaktion als 3D-Secure-Transaktion durchgeführt, ansonsten als Nicht-3D-Secure-Transaktion. Beachten Sie bitte, dass das Modul "3D-Secure-Zahlungen durchführen (gemäß vordefinierten Filtern und Einstellungen)" im <a href="https://admin.novalnet.de/">Novalnet-Händleradministrationsportal</a> konfiguriert sein muss, bevor es hier aktiviert wird. Für weitere Informationen sehen Sie sich bitte die Beschreibung dieses Betrugsprüfungsmoduls an (unter dem Reiter "Betrugsprüfungsmodule" unterhalb des Menüpunkts "Projekte" für das ausgewähte Projekt im <a href="https://admin.novalnet.de/">Novalnet-Händleradministrationsportal</a>) oder kontaktieren Sie das Novalnet-Support-Team.</td>
         </tr>
         <tr>
             <td><b>Durchführung einer ausgesetzten Zahlung</b></td>
@@ -151,7 +151,7 @@ Zur Einrichtung rufen Sie den Menüpunkt **Plugins -> Plugin-Übersicht -> Noval
             <td>Falls eine Bestellung die angegebene Grenze überschreitet, wird diese Bestellung bis zur manuellen Bestätigung des Händlers auf den Status <b>on-hold</b> gesetzt.Sie können das Feld leer lassen, wenn Sie möchten, dass alle Transaktionen als on hold behandelt werden.</td>
         </tr>
         <tr>
-            <td>Zahlungsgarantie aktivieren</b></td>
+            <td><b>Zahlungsgarantie aktivieren</b></td>
             <td><b>Grundanforderungen für die Zahlungsgarantie:</b><br > -> Zugelassene Staaten: AT, DE, CH. <br > -> Zugelassene Währung: EUR.<br > -> Mindestbetrag der Bestellung >= 9,99 EUR.<br > -> Mindestalter des Endkunden >= 18 Jahre.<br > -> Rechnungsadresse und Lieferadresse müssen übereinstimmen.<br > -> Geschenkgutscheine / Coupons sind nicht erlaubt.</td>
         </tr>
         <tr>
