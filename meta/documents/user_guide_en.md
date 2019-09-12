@@ -140,7 +140,7 @@ To set up the merchant credentials, navigate to the path **Plugins -> Plugin ove
             <td>Enter the number of days after which the payment should be processed (must be between 2 and 14 days)</td>
         </tr>
         <tr>
-            <td><b>On-hold payment action<</b>/td>
+            <td><b>On-hold payment action</b></td>
             <td>Capture / Authorize</td>
         </tr>
         <tr>
