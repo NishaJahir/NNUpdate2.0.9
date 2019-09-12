@@ -240,7 +240,7 @@ To Confirm, Cancel and Refund the transactions for respective orders need to cre
       <tr>
          <td><strong>Filter 1</strong></td>
          <td><strong>Order > Payment method</strong></td>
-         <td><strong>Plugin: Novalnet Invoice</strong>
+         <td><strong>Plugin: Novalnet Invoice</strong></td>
       </tr>
       <tr>
         <td><strong>Procedure</strong></td>
@@ -276,7 +276,7 @@ To Confirm, Cancel and Refund the transactions for respective orders need to cre
       <tr>
          <td><strong>Filter 1</strong></td>
          <td><strong>Order > Payment method</strong></td>
-         <td><strong>Plugin: Novalnet Invoice</strong>
+         <td><strong>Plugin: Novalnet Invoice</strong></td>
       </tr>
       <tr>
         <td><strong>Procedure</strong></td>
@@ -312,7 +312,7 @@ To Confirm, Cancel and Refund the transactions for respective orders need to cre
       <tr>
          <td><strong>Filter 1</strong></td>
          <td><strong>Order > Payment method</strong></td>
-         <td><strong>Plugin: Novalnet Invoice</strong>
+         <td><strong>Plugin: Novalnet Invoice</strong></td>
       </tr>
       <tr>
         <td><strong>Procedure</strong></td>
