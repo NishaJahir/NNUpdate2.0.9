@@ -56,11 +56,11 @@ To set up the merchant credentials, navigate to the path **Plugins -> Plugin ove
         </tr>
         <tr>
             <td><b>Project ID</b></td>
-            <td>Project identification number is an unique ID of merchant project. The merchant can create N number of projects through <a href="mailto:https://admin.novalnet.de/">Novalnet Merchant Administration Portal</a>.</td>
+            <td>Project identification number is an unique ID of merchant project. The merchant can create N number of projects through <a href="https://admin.novalnet.de/">Novalnet Merchant Administration Portal</a>.</td>
         </tr>
         <tr>
             <td><b>Tariff ID</b></td>
-            <td>Tariff identification number is an unique ID for each merchant project. The merchant can create N number of tariffs through <a href="mailto:https://admin.novalnet.de/">Novalnet Merchant Administration Portal</a>.</td>
+            <td>Tariff identification number is an unique ID for each merchant project. The merchant can create N number of tariffs through <a href="https://admin.novalnet.de/">Novalnet Merchant Administration Portal</a>.</td>
         </tr>
         <tr>
             <td><b>Payment access key</b></td>
@@ -122,7 +122,7 @@ To set up the merchant credentials, navigate to the path **Plugins -> Plugin ove
         </tr>
         <tr>
             <td><b>Force 3D secure on predefined conditions</b></td>
-            <td>If 3D secure is not enabled in the above field, then force 3D secure process as per the "Enforced 3D secure (as per predefined filters & settings)" module configuration at the <a href="mailto:https://admin.novalnet.de/">Novalnet Merchant Administration Portal</a>. If the predefined filters & settings from Enforced 3D secure module are met, then the transaction will be processed as 3D secure transaction otherwise it will be processed as non 3D secure. Please note that the "Enforced 3D secure (as per predefined filters & settings)" module should be configured at <a href="mailto:https://admin.novalnet.de/">Novalnet Merchant Administration Portal</a> prior to the activation here. For further information, please refer the description of this fraud module at "Fraud Modules" tab, below "Projects" menu, under the selected project in <a href="mailto:https://admin.novalnet.de/">Novalnet Merchant Administration Portal</a> or contact Novalnet support team.</td>
+            <td>If 3D secure is not enabled in the above field, then force 3D secure process as per the "Enforced 3D secure (as per predefined filters & settings)" module configuration at the <a href="https://admin.novalnet.de/">Novalnet Merchant Administration Portal</a>. If the predefined filters & settings from Enforced 3D secure module are met, then the transaction will be processed as 3D secure transaction otherwise it will be processed as non 3D secure. Please note that the "Enforced 3D secure (as per predefined filters & settings)" module should be configured at <a href="https://admin.novalnet.de/">Novalnet Merchant Administration Portal</a> prior to the activation here. For further information, please refer the description of this fraud module at "Fraud Modules" tab, below "Projects" menu, under the selected project in <a href="https://admin.novalnet.de/">Novalnet Merchant Administration Portal</a> or contact Novalnet support team.</td>
         </tr>
         <tr>
             <td><b>On-hold payment action</b></td>
